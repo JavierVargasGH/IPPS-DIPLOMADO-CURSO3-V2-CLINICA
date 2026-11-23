@@ -1,4 +1,3 @@
-
 import { Router } from 'express'
 import { proteger } from '../middlewares/proteger.js'
 import * as controller from '../controllers/paciente.controller.js'
